@@ -1,0 +1,23 @@
+{
+    "cards":[{
+        "img":"phone 1.jpg",
+        "name":"apple",
+        "rate":"400000",
+        "offer":"350000",
+        "button":"View"
+    },{
+        "img":"phone 2.jpg",
+        "name":"iphone",
+        "rate":"900000",
+        "offer":"870000",
+        "button":"View"
+    },{
+        "img":"phone 3.jpg",
+        "name":"iphone 2",
+        "rate":"1000000",
+        "offer":"1000000",
+        "button":"View"
+    }
+
+    ]
+}
